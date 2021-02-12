@@ -39,6 +39,11 @@
       "type": "component",
       "repeatable": false,
       "component": "page.section-concepts"
+    },
+    "sectionAboutUs": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-about-us"
     }
   }
 }
